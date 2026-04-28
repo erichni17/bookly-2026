@@ -1,5 +1,5 @@
 # Bookly
-Demo video: (https://www.youtube.com/watch?v=UqlzuftaV04)
+Demo video: https://www.youtube.com/watch?v=UqlzuftaV04
 
 Try it out (UNAVAILABLE):  [bookly-2026.vercel.app/login](url)
 
